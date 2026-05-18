@@ -6,8 +6,9 @@ This project demonstrates a portfolio of BMW Market Insights
 
  
 ## What this project covers
-- Main Question: What drives used BMW prices & how do different factors compare?
-- Factors include:
+Main Question: What drives used BMW prices & how do different factors compare?
+
+ Factors include:
 - Vehicle pricing
 - Model
 - Year
